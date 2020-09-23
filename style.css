@@ -1,0 +1,33 @@
+body{
+    background-image: url("computer.jpg");
+    background-size: 1880px 920px;
+}
+.header {
+    text-align: center;
+    color: white;
+    padding-bottom: 0px;
+}
+
+.nav li{
+    display: inline;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 5em;
+}
+
+.menus{
+    color: white;
+}
+
+h2 {
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.lecture li{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color:white;
+}
